@@ -105,6 +105,5 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
             case "/": return valOne / valTwo;
             default:return 0;
         }
-
     }
 }
